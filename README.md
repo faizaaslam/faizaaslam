@@ -34,5 +34,10 @@ A self-motivated and passionate Test Automation Engineer who enjoys coding and a
 - :rocket:📈 Business Domains I've worked on: <br />
     - Fintech<br />
     - Forensic Investigation<br />
-    - Semeconductor(Data Analysis)
+    - Semiconductor(Data Analysis)
+    
+
+[![Faiza’s github stats](https://github-readme-stats.vercel.app/api?username=faizaaslam)](https://github.com/faizaaslam)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faizaaslam&layout=compact)](https://github.com/faizaaslam)
 
