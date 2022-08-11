@@ -1,12 +1,16 @@
 ### Hi there 👋, This is Faiza Aslam
 
+<a href="https://www.linkedin.com/in/faiza-aslam04/"><img align="left" src="https://raw.githubusercontent.com/faizaaslam/faizaaslam/main/Images/linkedin.svg" alt="Faiza | LinkedIn" width="21px"/></a>
+
+<a href="https://faiza-aslam.medium.com/"><img align="left" src="https://raw.githubusercontent.com/faizaaslam/faizaaslam/main/Images/medium.svg" alt="Faiza | Medium" width="21px"/></a><br/>
+
 A self-motivated and passionate Test Automation Engineer who enjoys coding and automating stuff. I've over 3 years of experience in the tech industry. I love exploring new tools & technologies and using them to automate testcases and processes. 
 
 - 🔭 I’m currently working on the automation of branchless banking application. I am using Selenium Webdriver with Java to automate web portal, Appium for mobile application automation, Rest assured framework for APIs automation and JDBC & sql for database automation.
 
 - 💬 Reach me out if you're having a hard time to choose automation framework and programming language for the automation of your application. I'd be happy to help.
 - 📫 How to reach me: 
-    - [Faiza-Linkedin](https://www.linkedin.com/in/faiza-aslam04/)
+    - Lets connect. Click on the linkedin icon on the top. 
 - :rocket::computer: Tools and Frameworks I've worked on:<br />
       :arrow_right: Selenium Webdriver<br />
       :arrow_right: WebdriverIO<br />
@@ -37,7 +41,7 @@ A self-motivated and passionate Test Automation Engineer who enjoys coding and a
     - Semiconductor(Data Analysis)
     
 
-[![Faiza’s github stats](https://github-readme-stats.vercel.app/api?username=faizaaslam)](https://github.com/faizaaslam)
+![Faiza's GitHub stats](https://github-readme-stats.vercel.app/api?username=faizaaslam&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faizaaslam&layout=compact)](https://github.com/faizaaslam)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faizaaslam&layout=compact&show_icons&theme=radical)](https://github.com/faizaaslam)
 
