@@ -6,9 +6,7 @@ A self-motivated and passionate Test Automation Engineer who enjoys coding and a
 
 - 💬 Reach me out if you're having a hard time to choose automation framework and programming language for the automation of your application. I'd be happy to help.
 - 📫 How to reach me: 
-    - [Faiza-Linkedin](https://www.linkedin.com/in/faiza-aslam04/)<br />
-    - [Faiza-Gmail](faiza.aslam663@gmail.com)
-
+    - [Faiza-Linkedin](https://www.linkedin.com/in/faiza-aslam04/)
 - :rocket::computer: Tools and Frameworks I've worked on:<br />
       :arrow_right: Selenium Webdriver<br />
       :arrow_right: WebdriverIO<br />
