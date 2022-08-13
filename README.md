@@ -14,6 +14,7 @@ A self-motivated and passionate Test Automation Engineer who enjoys coding and a
 - :rocket::computer: Tools and Frameworks I've worked on:<br />
       :arrow_right: Selenium Webdriver<br />
       :arrow_right: WebdriverIO<br />
+      :arrow_right: Cypress<br />
       :arrow_right: Protractor<br />
       :arrow_right: Playwright<br />
       :arrow_right: Appium(IOS & Android)<br />
