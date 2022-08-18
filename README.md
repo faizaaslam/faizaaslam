@@ -43,7 +43,7 @@ A self-motivated and passionate Test Automation Engineer who enjoys coding and a
     :arrow_right: Semiconductor(Data Analysis)
     
 
-![Faiza's GitHub stats](https://github-readme-stats.vercel.app/api?username=faizaaslam&show_icons=true&theme=radical)
+![Faiza's GitHub stats](https://github-readme-stats.vercel.app/api?username=faizaaslam&show_icons=true&theme=radical&count_private=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faizaaslam&theme=tokyonight)
 
