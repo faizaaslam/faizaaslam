@@ -12,23 +12,7 @@ A self-motivated and passionate Test Automation Engineer who enjoys coding and a
 - 📫 How to reach me: 
     - Lets connect. Click on the linkedin icon on the top. 
 - :rocket::computer: Tools and Frameworks I've worked on:<br />
-      :arrow_right: Selenium Webdriver<br />
-      :arrow_right: WebdriverIO<br />
-      :arrow_right: Cypress<br />
-      :arrow_right: Protractor<br />
-      :arrow_right: Playwright<br />
-      :arrow_right: Appium(IOS & Android)<br />
-      :arrow_right: Rest Assured Framework<br />
-      :arrow_right: Katalon Studio<br />
-      :arrow_right: QTP/UFT<br />
-      :arrow_right: Kobiton<br />
-      :arrow_right: TestNg<br />
-      :arrow_right: Junit<br />
-      :arrow_right: Jasmine<br />
-      :arrow_right: Mocha<br />
-      :arrow_right: Pytest<br />
-      :arrow_right: Cucumber<br />
-      :arrow_right: Behave
+       Selenium Webdriver, WebdriverIO, Cypress, Protractor, Playwright, Appium(IOS & Android), Rest Assured Framework, Postman, Katalon Studio, QTP/UFT, Kobiton, TestNg, Junit, Jasmine, Mocha, Pytest, Cucumber, Behave, Jenkins.
     
 - 👩‍💻 Languages:<br />
 
