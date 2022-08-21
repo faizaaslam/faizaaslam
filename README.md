@@ -9,8 +9,7 @@ A self-motivated and passionate Test Automation Engineer who enjoys coding and a
 - 🔭 I’m currently working on the automation of branchless banking application. I am using Selenium Webdriver with Java to automate web portal, Appium for mobile application automation, Rest assured framework for APIs automation and JDBC & sql for database automation.
 
 - 💬 Reach me out if you're having a hard time to choose automation framework and programming language for the automation of your application. I'd be happy to help.
-- 📫 How to reach me: 
-    - Lets connect. Click on the linkedin icon on the top. 
+- 📫 How to reach me. Click on the linkedin icon on the top. 
 - :rocket::computer: Tools and Frameworks I've worked on:<br />
        Selenium Webdriver, WebdriverIO, Cypress, Protractor, Playwright, Appium(IOS & Android), Rest Assured Framework, Postman, Katalon Studio, QTP/UFT, Kobiton, TestNg, Junit, Jasmine, Mocha, Pytest, Cucumber, Behave, Jenkins.
     
