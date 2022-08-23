@@ -1,4 +1,4 @@
-### Hi there 👋, This is Faiza Aslam
+### Hi there, This is Faiza Aslam
 
 <a href="https://www.linkedin.com/in/faiza-aslam04/"><img align="left" src="https://raw.githubusercontent.com/faizaaslam/faizaaslam/main/Images/linkedin.svg" alt="Faiza | LinkedIn" width="21px"/></a>
 
