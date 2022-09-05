@@ -1,6 +1,8 @@
 ### Hi there, This is Faiza Aslam
 
+<a href="https://www.linkedin.com/in/faiza-aslam04/"><img align="left" src="https://raw.githubusercontent.com/faizaaslam/faizaaslam/main/Images/linkedin.svg" alt="Faiza | LinkedIn" width="21px"/></a>
 <a href="https://faiza-aslam.medium.com/"><img align="left" src="https://raw.githubusercontent.com/faizaaslam/faizaaslam/main/Images/medium.svg" alt="Faiza | Medium" width="21px"/></a><br/>
+
 
 A self-motivated and passionate Test Automation Engineer who enjoys coding and automating stuff. I've over 3 years of experience in the tech industry. I love exploring new tools & technologies and using them to automate testcases and processes. I also write articles on medium.com.
 
