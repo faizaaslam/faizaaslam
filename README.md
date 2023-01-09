@@ -23,9 +23,9 @@ A self-motivated and passionate Test Automation Engineer who enjoys coding and a
 - :rocket:📈 Business Domains I've worked on: <br />
     :arrow_right: Fintech<br />
     :arrow_right: Forensic Investigation<br />
-    :arrow_right: Semiconductor(Data Analysis)
-    :arrow_right: Ecommerce
-    :arrow_right: Healthcare (EHR)
+    :arrow_right: Semiconductor(Data Analysis)<br />
+    :arrow_right: Ecommerce<br />
+    :arrow_right: Healthcare (EHR)<br />
     :arrow_right: Project Management
     
 
