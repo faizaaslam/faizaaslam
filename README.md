@@ -4,7 +4,7 @@
 <a href="https://faiza-aslam.medium.com/"><img align="left" src="https://raw.githubusercontent.com/faizaaslam/faizaaslam/main/Images/medium.svg" alt="Faiza | Medium" width="21px"/></a><br/>
 
 
-A self-motivated and passionate Test Automation Engineer who enjoys coding and automating stuff. I've over 3 years of experience in the tech industry. I love exploring new tools & technologies and using them to automate testcases and processes. I also write articles on medium.com.
+A self-motivated and passionate Test Automation Engineer who enjoys coding and automating stuff. I've over 4 years of experience in the tech industry. I love exploring new tools & technologies and using them to automate testcases and processes. I also write articles on medium.com.
 
 - 🔭 I’m currently working on the automation of branchless banking application. I am using Selenium Webdriver with Java to automate web portal, Appium for mobile application automation, Rest assured framework for APIs automation and JDBC & sql for database automation.
 
@@ -28,8 +28,6 @@ A self-motivated and passionate Test Automation Engineer who enjoys coding and a
     :arrow_right: Healthcare (EHR)<br />
     :arrow_right: Project Management
     
-
-![Faiza's GitHub stats](https://github-readme-stats.vercel.app/api?username=faizaaslam&show_icons=true&theme=radical&count_private=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faizaaslam&theme=tokyonight)
 
