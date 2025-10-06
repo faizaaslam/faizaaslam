@@ -6,8 +6,6 @@
 
 A self-motivated and passionate Test Automation Engineer who enjoys coding and automating stuff. I've over 5+ years of experience in the tech industry. I love exploring new tools & technologies and using them to automate testcases and processes. I also write articles on medium.com.
 
-- 🔭 I’m currently working on the automation of branchless banking application. I am using Selenium Webdriver with Java to automate web portal, Appium for mobile application automation, Rest assured framework for APIs automation and JDBC & sql for database automation.
-
 - 💬 Reach me out if you're having a hard time to choose automation framework and programming language for the automation of your application. I'd be happy to help.
 - 📫 How to reach me? Click on the linkedin icon on the top. 
 - :rocket::computer: Tools and Frameworks I've worked on:<br />
